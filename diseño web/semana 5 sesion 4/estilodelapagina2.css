@@ -1,0 +1,18 @@
+.rs{
+    width:70px;
+    height: 35px;
+    margin: 0 5px 0 5px;
+}
+#logo{
+    width: 100%;
+    height: 150px;
+    margin: 20px 10px 20px 10px;
+}
+.menu{
+    font-size: 18px;
+}
+a:hover{
+    font-size: 22px;
+    font-style: italic;
+    color:red;
+}

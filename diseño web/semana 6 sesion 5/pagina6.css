@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    border: 0px;
+    padding: 0;
+}
+p{
+    color: red;
+    text-align: justify;
+    font-style: italic;
+}
+H3,H2,H1{
+    color: brown;
+    text-align: right;
+    text-decoration: overline;
+    font-style: italic;
+}
+p>span{
+    color: blue;
+    font-size: 18px;
+}
+.titulo{
+    color:black;
+    font-size: 24px;
+    font-style: normal;
+    text-align: center;
+}
+#titulo{
+    color:chocolate;
+    font-size: 36px;
+    font-style: normal;
+    text-align: left;
+}
+.menu{
+    font-size: 14px;
+    
+}
+a:hover{
+    font-size:20px;
+    color: crimson;
+}
